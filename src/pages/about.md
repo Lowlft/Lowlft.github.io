@@ -1,16 +1,19 @@
 ---
 layout: ../layouts/PageLayout.astro
 title: "About"
-coverTitle: "关于我"
+coverTitle: "About Me"
 date: 2026-07-24 12:00:00
-description: "了解十一"
+description: "About Me"
 ---
 
-你好呀，这里是十一的个人博客 ✨
+# Not a lot yet
 
-我会在这里记录技术学习、生活随笔和一些小小的作品。
+欢迎来到我的 blog！
 
-希望能给你带来一点点温暖和灵感～
+不定期更新
+
+Have a nice day!
+
 
 ## 联系我
 
