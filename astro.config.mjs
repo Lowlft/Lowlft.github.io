@@ -175,6 +175,7 @@ if (contentConfig.enhanceCodeBlock !== false) shikiTransformers.push(collapsible
 // https://astro.build/config
 export default defineConfig({
   site: yamlConfig.site.url,
+  base: '/L-blog',
   compressHTML: true,
   markdown: {
     processor: unified({
