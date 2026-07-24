@@ -19,7 +19,7 @@ site:
   avatar: /img/avatar.webp
   showLogo: true
   author: 十一
-  url: https://Lowlft.github.io/L-blog
+  url: https://Lowlft.github.io
   defaultOgImage: /img/avatar.webp
   startYear: 2026
   timezone: Asia/Shanghai # 时区配置 (IANA 格式)，用于日期显示和处理
