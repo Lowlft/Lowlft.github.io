@@ -63,6 +63,7 @@ categoryMap:
   笔记: note
   工具: tools
   周刊: weekly
+  友链: friends
   # Secondary categories (for nested paths)
   前端: front-end
   # Add more as needed:
@@ -98,6 +99,10 @@ featuredCategories:
     label: 工具
     image: /img/cover/11.webp
     description: 工具使用、效率提升
+  - link: friends # 对应 categoryMap 中 友链: friends
+    label: 友链
+    image: /img/cover/3.webp
+    description: 欢迎交换友情链接
 
 # =============================================================================
 # Featured Series
@@ -211,7 +216,7 @@ friends:
     title: 友情链接 # 页面标题
     subtitle: 欢迎交换友链！ # 页面副标题
     applyTitle: 申请友链 # 申请区块标题
-    applyDesc: 请在本页留言，格式如下 # 申请说明
+    applyDesc: 请在友链分类的置顶文章留言，格式如下 # 申请说明
     exampleYaml: | # 申请格式示例，会显示在页面上
       - site: 你的博客名称 # 站点名称
         url: https://your-blog.com/ # 站点网址
