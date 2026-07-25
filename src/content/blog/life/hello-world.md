@@ -16,4 +16,4 @@ categories:
 
 希望能和看到这里的你，一起慢慢成长～
 
-- 本页由 llama-cpp 生成
+- 本页由 Astro 生成
