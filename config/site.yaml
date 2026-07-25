@@ -463,7 +463,20 @@ navigation:
     # path: # 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数
     # lang: # 语言 (默认: 'zh-CN')
 comment:
-  provider: none
+  provider: giscus
+  giscus:
+    repo: Lowlft/Lowlft.github.io
+    repoId: R_kgDOTiQinA
+    category: General
+    categoryId: DIC_kwDOTiQinM4DB7vA
+    mapping: pathname
+    reactionsEnabled: '1'
+    emitMetadata: '0'
+    inputPosition: top
+    lang: zh-CN
+    host: https://giscus.app
+    theme: preferred_color_scheme
+    loading: lazy
 
 # =============================================================================
 # Analytics (Umami)
