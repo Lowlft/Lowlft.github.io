@@ -13,8 +13,8 @@
 site:
   title: Eleven's Blog
   alternate: ''
-  subtitle: ''
-  name: Eleven
+  subtitle: '怎么还有bug要修...'
+  name: sakayoriEleven
   description: Python / Java / C++ / Astro / Vue / React / Node.js etc..
   avatar: /img/avatar.webp
   showLogo: true
